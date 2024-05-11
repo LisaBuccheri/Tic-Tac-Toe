@@ -6,8 +6,7 @@ When you git clone the project juste launch it in the console "py .\main.py"
 
 
 
-```javascript
-function greet(name) {
-  console.log('Hello, ' + name + '!');
-}
+```git clone "https..." 
+cd .\Console_mode
+py .\main.py
 
