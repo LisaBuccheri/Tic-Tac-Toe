@@ -1,5 +1,12 @@
 def draw_map(map):
-    print('TIC-TAC-TOE')
+    tic_tac_toe_art = r"""
+  ______ _          ______                ______           
+ /_  __/(_)_____   /_  __/____ _ _____   /_  __/____   ___ 
+  / /  / // ___/    / /  / __ `// ___/    / /  / __ \ / _ \
+ / /  / // /__     / /  / /_/ // /__     / /  / /_/ //  __/
+/_/  /_/ \___/    /_/   \__,_/ \___/    /_/   \____/ \___/                                                                                                                                                                                                                                                                                                              
+"""
+    print(tic_tac_toe_art)
     print('-------------')
     for line in map:
         print('| ' + " | ".join(str(item) if item != 0 else ' ' for item in line) + ' |')
