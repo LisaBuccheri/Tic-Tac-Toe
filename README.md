@@ -6,7 +6,8 @@ When you git clone the project juste launch it in the console "py .\main.py"
 
 
 
-```git clone "https..." 
+```
+git clone "https..." 
 cd .\Console_mode
 py .\main.py
 
