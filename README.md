@@ -12,7 +12,6 @@ git clone ["https..." ](https://github.com/LisaBuccheri/Tic-Tac-Toe.git)
 cd .\Console_mode
 python .\main.py
 ```
-In my case py is an alias to python command
 
 On Linux:
 ```
